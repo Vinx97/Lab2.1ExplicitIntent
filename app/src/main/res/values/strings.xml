@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 2.1 Explicit Intent</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hint">Enter your message here</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+</resources>
